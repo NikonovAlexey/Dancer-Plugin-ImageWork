@@ -1,4 +1,5 @@
 package Dancer::Plugin::ImageWork;
+# ABSTRACT: low-level image work
 
 use strict;
 use warnings;
